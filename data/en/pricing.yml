@@ -41,3 +41,9 @@ item:
       - item: 24/7 Tech Support
     btnText: Sign Up
     btnURL: 'https://themefisher.com/'
+  - name: lorem-ipsum
+    price: lorem-ipsum
+    description: lorem-ipsum
+    featurelist: []
+    btnText: lorem-ipsum
+    btnURL: lorem-ipsum
