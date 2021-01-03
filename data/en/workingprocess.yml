@@ -29,7 +29,7 @@ item:
     description: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus
       nec dui venenatis.
-  - number: 0
+  - number: 5
     icon: lorem-ipsum
     title: lorem-ipsum
     description: lorem-ipsum
