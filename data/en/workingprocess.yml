@@ -30,7 +30,7 @@ item:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus
       nec dui venenatis.
   - number: 5
-    icon: lorem-ipsum
+    icon: ' tf-ion-ios-box-outline'
     title: lorem-ipsum
     description: lorem-ipsum
   - number: 0
